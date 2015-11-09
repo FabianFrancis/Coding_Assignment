@@ -1,0 +1,5 @@
+The .java files are inside the src folder.
+
+I am also uploading a .jar file
+
+The Eclipse Project file contains all the Tests and Documentation.
